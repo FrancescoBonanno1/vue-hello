@@ -5,7 +5,8 @@ const task = {
         return {
             message : "Salve, ",
             nome: "Ermenegildo",
-            color : "Green"
+            cognome : "Bollocks",
+            image :"./img/Hondas2000.jpg"
         }
     }
 };
